@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>Where do I line up for the canteen  </pattern>
+    <template>Students line up outside the doors to the canteen. </template>
+</category>
+<category>
+    <pattern>Where do I collect my lunch order  </pattern>
+    <template>Students collect their lunch orders from the left side of the canteen. </template>
+</category>
+<category>
+    <pattern>When is the canteen open  </pattern>
+    <template>Students pay by tapping their student card onto a wireless pad. </template>
+</category>
+<category>
+    <pattern>What types of food /drinks are at the canteen  </pattern>
+    <template>There are many types of foods/drinks including, meat- based items, soft drinks and fish items. </template>
+</category>
+<category>
+    <pattern>How do I know what the canteen sells  </pattern>
+    <template>There are menus around the canteen. </template>
+</category>
+<category>
+    <pattern>Are there options for students with allergies  </pattern>
+    <template>Most food and drink packaging shows the items ingredients, if not you can ask one of the canteen assistants.  </template>
+</category>
+<category>
+    <pattern>What’s on the menu  </pattern>
+    <template>There are menus on the walls in the canteen of all the available items. </template>
+</category>
+<category>
+    <pattern>Which building is the canteen in  </pattern>
+    <template>The canteen is in the MPAC. </template>
+</category>
+<category>
+    <pattern>What is the cheapest item  </pattern>
+    <template>Zooper doopers, frozen pineapples and jelly frogs are all $0.50. </template>
+</category>
+<category>
+    <pattern>Is the canteen open outside of school hours  </pattern>
+    <template>No, the canteen is not open during classes or outside school hours. </template>
+</category>
+<category>
+    <pattern>How do I get funds onto my card  </pattern>
+    <template>Students parents have access to how much money is put onto the card</template>
+</category>
+<category>
+    <pattern>Are there daily specials  </pattern>
+    <template>Yes, everyday there is a special but everyday its different. </template>
+</category>
+<category>
+    <pattern>hi</pattern>
+    <template>hello how can i serve you today</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>

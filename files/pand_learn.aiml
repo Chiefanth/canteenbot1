@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>Hello how can i serve you today</template>
+</category>
+
+<category>
+	<pattern>WHERE IS THE CANTEEN</pattern>
+	<template>the canteen is located in the MPAC</template>
+</category>
+
+<category>
+    <pattern>What is your name</pattern>
+    <template>My name is canteenbot</template>
+</category>
+<category>
+    <pattern>How do I pay at the canteen  </pattern>
+    <template>Students pay by tapping their student card onto a wireless pad. </template>
+</category>
+<category>
+    <pattern>What days are the canteen open </pattern>
+    <template>Students are aloud to access the canteen from Monday to Friday at lunch and recess.</template>
+</category>
+<category>
+    <pattern>How do I order a lunch order </pattern>
+    <template>Students can go on MYMC canteen page and order what they want.</template>
+</category>
+<category>
+    <pattern>Thank you canteen bot</pattern>
+    <template>Im happy to help</template>
+</category>
+<category>
+    <pattern>Thank you</pattern>
+    <template>Im happy to help</template>
+</category>
+<category>
+    <pattern>Thanks</pattern>
+    <template>Im happy to help</template>
+</category>
+<category>
+	<pattern>HI</pattern>
+	<template>Hello how was your day today</template>
+</category>
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>Hello how was your day today</template>
+</category>
+
+<category>
+	<pattern>GREAT HOW ABOUT YOURS</pattern>
+	<template>I'm just a bot so I have no feelings </template>
+</category>
+
+</aiml>
